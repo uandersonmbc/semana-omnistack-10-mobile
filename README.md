@@ -6,9 +6,50 @@ Durante essa Semana Omnistack desenvolvi a seguinte aplicação com algumas melh
 |---|---|---|---|
 |![Main](./assets/1.jpg)|![Main](./assets/2.jpg)|![Main](./assets/3.jpg)|![Main](./assets/4.jpg)|
 
-## Instalar dependências
+## Clone, Instalação e Executar
+### Clone
+```
+git clone https://github.com/uandersonmbc/semana-omnistack-10-mobile
 
-## Dependências a serem instaladas
+cd semana-omnistack-10-mobile
+```
+
+### Instalar as dependências
+```
+yarn
+ou
+npm install
+```
+
+### Executando aplicação
+```
+yarn start
+ou
+npm start
+```
+
+## Principais dependências a serem instaladas
+- axios
+- expo-location
+- react-native-maps
+- react-native-select-multiple
+- react-native-webview
+- react-navigation
+- styled-components
 
 ## Organização das pastas
 
+```
+src
+├───components
+│   ├───MarkerDev
+│   └───SearchBox
+├───navigation
+├───screens
+│   ├───Edit
+│   ├───GitHub
+│   ├───Main
+│   └───Register
+├───services
+└───shared
+```
