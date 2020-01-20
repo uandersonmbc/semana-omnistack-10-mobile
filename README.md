@@ -33,6 +33,7 @@ npm start
 - expo-location
 - react-native-maps
 - react-native-select-multiple
+- react-native-google-places-autocomplete
 - react-native-webview
 - react-navigation
 - styled-components
