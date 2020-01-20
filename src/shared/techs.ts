@@ -1,0 +1,18 @@
+export const optionsTechs = [
+    { value: 'react', label: 'React' },
+    { value: 'nodejs', label: 'Nodejs' },
+    { value: 'vue', label: 'Vue' },
+    { value: 'php', label: 'PHP' },
+    { value: 'javascript', label: 'JavaScript' },
+    { value: 'react native', label: 'React Native' },
+    { value: 'android', label: 'Android' },
+    { value: 'ios', label: 'iOS' },
+    { value: 'swift ios', label: 'Swift iOS' },
+    { value: 'java', label: 'Java' },
+    { value: 'html', label: 'HTML' },
+    { value: 'css', label: 'CSS' },
+    { value: 'haskell', label: 'Haskell' },
+    { value: 'c', label: 'C' },
+    { value: 'c++', label: 'C++' },
+    { value: 'c#', label: 'C#' },
+];
